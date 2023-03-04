@@ -1,34 +1,34 @@
 # Hospital-Management-System
- New Patient: Create a new patient. Attributes of a patient are:
-{ patient id (Unique)
-{ patient surname
-{ patient name
-{ patient address
-{ patient phone number
+* New Patient: Create a new patient. Attributes of a patient are:
+- patient id (Unique)
+- patient surname
+- patient name
+- patient address
+- patient phone number
 
- Remove Patient:
+* Remove Patient:
 Remove a patient from the database by using its identification number.
 
- List Patients:
+* List Patients:
 Print the list of patients ordered by name.
 
- Create Admission:
+* Create Admission:
 Create a new admission for an existing patient and append it to admission data file.
 Each admission has a unique admission id.
 
- Add Examination: Add an examination to a given order with given operations. An
+* Add Examination: Add an examination to a given order with given operations. An
 examination can include 3 operations at most. There are 2 types of examination. These
 are:
-{ Inpatient examination 10 $
-{ Outpatient examination 15 $
+- Inpatient examination 10 $
+- Outpatient examination 15 $
 An examination can include 3 additional operations at most. There are 4 types of
 operations:
-{ doctor visit 15 $
-{ imaging 10 $
-{ tests 7 $
-{ measurements 5 $
+- doctor visit 15 $
+- imaging 10 $
+* tests 7 $
+-- measurements 5 $
 
- Total Cost
+* Total Cost
 Calculate the total cost of an admission. List all examinations in the order then calculate
 the total cost of an admission.
 
