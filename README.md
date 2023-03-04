@@ -2,7 +2,7 @@
 Functions
 
 1. New Patient:   
-/_Create a new patient. Attributes of a patient are:
+\_Create a new patient. Attributes of a patient are:
   * patient id (Unique)
   * patient surname
   * patient name
