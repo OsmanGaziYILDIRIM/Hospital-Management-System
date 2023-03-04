@@ -1,10 +1,11 @@
 # Hospital-Management-System
-* New Patient: Create a new patient. Attributes of a patient are:
-    patient id (Unique)
-    patient surname
-    patient name
-    patient address
-    patient phone number
+##New Patient:
+###Create a new patient. Attributes of a patient are:
+####patient id (Unique)
+    ####patient surname
+    ####patient name
+    ####patient address
+    ####patient phone number
 
 * Remove Patient:
 Remove a patient from the database by using its identification number.
