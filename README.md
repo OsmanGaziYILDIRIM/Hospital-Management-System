@@ -19,8 +19,8 @@ Each admission has a unique admission id.
 examination can include 3 operations at most. There are 2 types of examination. These
 are:
 * Inpatient examination 10 $
-* Outpatient examination 15 $
-An examination can include 3 additional operations at most. There are 4 types of
+* Outpatient examination 15 $   
+ An examination can include 3 additional operations at most. There are 4 types of
 operations:
 * doctor visit 15 $
 * imaging 10 $
@@ -28,6 +28,5 @@ operations:
 * measurements 5 $
 
 6. Total Cost   Calculate the total cost of an admission. List all examinations in the order then calculate
-the total cost of an admission.
-
+the total cost of an admission.   
 Patient information and login information is stored in text files.
